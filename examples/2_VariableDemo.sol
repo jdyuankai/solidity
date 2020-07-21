@@ -1,9 +1,9 @@
-pragma solidity ^0.5.0;
+pragma solidity ^0.4.17;
 
 /**
 * multi line comments.
 */
-contract SolidityTest {
+contract VariableDemo {
    uint public amount; // State variable
    address public manager; // address is a special data type of solidity
    
